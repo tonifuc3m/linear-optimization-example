@@ -1,4 +1,4 @@
-# linear-optimization-example
+\# linear-optimization-example
 
 This project is in a Python 3.7 Jupyter notebook on a Windows environment. 
 
@@ -6,6 +6,10 @@ I have used pyomo to solve the optimization problems. For installing it with Ana
 
 In addition, inside pyomo I am using the GLPK solver. Please, install it in Anaconda following this instructions: https://anaconda.org/conda-forge/glpk
 
+
+<br/>
+
+<br/>
 
 
 Steps: 
@@ -18,6 +22,10 @@ Steps:
 
 4. Finally, a conditional constraint is also presented and implemented. 
 
+
+<br/>
+
+<br/>
 
 
 Contributors:
