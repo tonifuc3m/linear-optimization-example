@@ -1,4 +1,4 @@
-\# linear-optimization-example
+# linear-optimization-example
 
 This project is in a Python 3.7 Jupyter notebook on a Windows environment. 
 
