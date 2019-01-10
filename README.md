@@ -28,7 +28,7 @@ Steps:
 <br/>
 
 
-Contributors:
+Authors:
 
 This problem has been proposed and coded in collaboration with:
 
